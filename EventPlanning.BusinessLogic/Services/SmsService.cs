@@ -11,7 +11,7 @@ namespace EventPlanning.BusinessLogic.Services;
 public class SmsService : ISmsService
 {
     private const string AccountSid = "AC4012bf2fce72d52c23c42df366540e41";
-    private const string AuthToken = "be45f143582f59a05623c1f1439da7b2";
+    private const string AuthToken = "00cb05984b88b05c71e436ea80b2daeb";
     private const string TwilioPhoneNumber = "+12027914063";
 
     private readonly IGeneratorService _generatorService;
