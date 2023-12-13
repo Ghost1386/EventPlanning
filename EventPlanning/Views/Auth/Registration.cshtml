@@ -1,0 +1,34 @@
+﻿@model EventPlanning.Common.DTOs.AuthDto.UserRegisterDto;
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/site.css">
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+<div>
+    <form class="login__content" asp-controller="Auth" asp-action="Registration" method="post">
+        <div class="form">
+            <div class="input">
+                <input type="text" name="Name" placeholder="Имя">
+            </div>
+            <div class="input">
+                <input type="number" name="Age" placeholder="Возраст">
+            </div>
+            <div class="input">
+                <input type="tel" name="PhoneNumber" placeholder="Номер телефона">
+            </div>
+            <div class="input">
+                <input type="password" name="Password" placeholder="Пароль">
+            </div>
+            
+        </div>
+        <input class="btn" type="submit" value="Зарегестрироваться">
+    </form>
+</div>
+</body>
+</html>

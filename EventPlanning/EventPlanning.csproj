@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.14">
+        <PrivateAssets>all</PrivateAssets>
+        <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      </PackageReference>
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\EventPlanning.BusinessLogic\EventPlanning.BusinessLogic.csproj" />
+      <ProjectReference Include="..\EventPlanning.Common\EventPlanning.Common.csproj" />
+      <ProjectReference Include="..\EventPlanning.DAL\EventPlanning.DAL.csproj" />
+      <ProjectReference Include="..\EventPlanning.Models\EventPlanning.Models.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <_ContentIncludedByDefault Remove="Views\Record\GetFotUser.cshtml" />
+      <_ContentIncludedByDefault Remove="Views\Email\Create.cshtml" />
+      <_ContentIncludedByDefault Remove="Views\Record\GetForUser.cshtml" />
+    </ItemGroup>
+
+</Project>

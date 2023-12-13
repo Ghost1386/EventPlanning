@@ -1,0 +1,17 @@
+C:\Users\egor5\OneDrive\Рабочий стол\EventPlanning\EventPlanning.DAL\bin\Debug\net7.0\EventPlanning.DAL.deps.json
+C:\Users\egor5\OneDrive\Рабочий стол\EventPlanning\EventPlanning.DAL\bin\Debug\net7.0\EventPlanning.DAL.dll
+C:\Users\egor5\OneDrive\Рабочий стол\EventPlanning\EventPlanning.DAL\bin\Debug\net7.0\EventPlanning.DAL.pdb
+C:\Users\egor5\OneDrive\Рабочий стол\EventPlanning\EventPlanning.DAL\bin\Debug\net7.0\EventPlanning.Common.dll
+C:\Users\egor5\OneDrive\Рабочий стол\EventPlanning\EventPlanning.DAL\bin\Debug\net7.0\EventPlanning.Models.dll
+C:\Users\egor5\OneDrive\Рабочий стол\EventPlanning\EventPlanning.DAL\bin\Debug\net7.0\EventPlanning.Common.pdb
+C:\Users\egor5\OneDrive\Рабочий стол\EventPlanning\EventPlanning.DAL\bin\Debug\net7.0\EventPlanning.Models.pdb
+C:\Users\egor5\OneDrive\Рабочий стол\EventPlanning\EventPlanning.DAL\obj\Debug\net7.0\EventPlanning.DAL.csproj.AssemblyReference.cache
+C:\Users\egor5\OneDrive\Рабочий стол\EventPlanning\EventPlanning.DAL\obj\Debug\net7.0\EventPlanning.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egor5\OneDrive\Рабочий стол\EventPlanning\EventPlanning.DAL\obj\Debug\net7.0\EventPlanning.DAL.AssemblyInfoInputs.cache
+C:\Users\egor5\OneDrive\Рабочий стол\EventPlanning\EventPlanning.DAL\obj\Debug\net7.0\EventPlanning.DAL.AssemblyInfo.cs
+C:\Users\egor5\OneDrive\Рабочий стол\EventPlanning\EventPlanning.DAL\obj\Debug\net7.0\EventPlanning.DAL.csproj.CoreCompileInputs.cache
+C:\Users\egor5\OneDrive\Рабочий стол\EventPlanning\EventPlanning.DAL\obj\Debug\net7.0\EventPlanning.DAL.csproj.CopyComplete
+C:\Users\egor5\OneDrive\Рабочий стол\EventPlanning\EventPlanning.DAL\obj\Debug\net7.0\EventPlanning.DAL.dll
+C:\Users\egor5\OneDrive\Рабочий стол\EventPlanning\EventPlanning.DAL\obj\Debug\net7.0\refint\EventPlanning.DAL.dll
+C:\Users\egor5\OneDrive\Рабочий стол\EventPlanning\EventPlanning.DAL\obj\Debug\net7.0\EventPlanning.DAL.pdb
+C:\Users\egor5\OneDrive\Рабочий стол\EventPlanning\EventPlanning.DAL\obj\Debug\net7.0\ref\EventPlanning.DAL.dll

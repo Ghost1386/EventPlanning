@@ -1,0 +1,24 @@
+﻿@model EventPlanning.Common.DTOs.EventDto.EventCreateDto;
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/site.css">
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+<div>
+    <form asp-controller="Sms" asp-action="Verify" method="post">
+        <div>
+            <div>
+                <input type="number" name="Code" placeholder="Код из смс">
+            </div>
+        </div>
+        <input type="submit" value="Отправить">
+    </form>
+</div>
+</body>
+</html>
